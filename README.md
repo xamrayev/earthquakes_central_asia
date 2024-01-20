@@ -14,5 +14,7 @@ In summary, this code serves as a powerful tool for downloading and managing ear
 
 Main dependencies:
 obspy: This is the fundamental library for seismic data processing and analysis. It provides functionalities for accessing data from FDSN web services, handling event information, and manipulating waveforms.
+
 pandas: This data manipulation library enables you to efficiently organize and analyze the retrieved earthquake data into a table format (DataFrame) for further exploration and visualization.
+
 datetime: This library is used for handling and manipulating date and time information, particularly for setting the search timeframe for past earthquakes.
